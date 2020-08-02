@@ -1,7 +1,8 @@
 package com.gitTest;
 
-public class helloproject {
+public class hellojava {
+
     public static void main(String[] args) {
-        System.out.println("hello");
+        System.out.println("hellojava");
     }
 }
